@@ -3,3 +3,4 @@
 jupyter labextension install @jupyter-widgets/jupyterlab-manager qgrid
 pip install xlrd
 pip install nltk
+pip install sklearn
